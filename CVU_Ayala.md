@@ -33,4 +33,11 @@
 | 2000 - 2003| Secundaria| Escuela Secundaria #10 Doctor Jaime Torres Bodet | Certificado de egreso|
 | 2003 - 2007| Preparatoria |Colegio de Bachilleres del Estado de Baja California "Plantel Nuevo León"| Asistente de Informática|
 | 2013 - 2017| Universidad | Instituto Tecnológico De Mexicali| Actualmente en 8vo Semestre|
+***
+##Lenguajes de Programación:##
+> * Java
+> * HTML
+> * C 
+***
+
 
