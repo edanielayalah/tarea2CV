@@ -34,10 +34,22 @@
 | 2003 - 2007| Preparatoria |Colegio de Bachilleres del Estado de Baja California "Plantel Nuevo León"| Asistente de Informática|
 | 2013 - 2017| Universidad | Instituto Tecnológico De Mexicali| Actualmente en 8vo Semestre|
 ***
+
 ##Lenguajes de Programación:##
 > * Java
 > * HTML
 > * C 
+
+
 ***
+
+
+### HABILIDADES Y CAPACIDAD PERSONAL ###
+
+
+Las habilidades que poseo incluyen la facilidad establecer relaciones interpersonales armónicas con los compañeros de trabajo y tengo la mente abierta para aprender nuevos conocimientos día a día.
+
+
+En el ámbito personal dentro de mis características principales se encuentran, tener un deseo de superación constante, comprometerme con las actividades que desempeño, realizar mi trabajo con alegría y buscar beneficiar a la comunidad de la que formo parte.
 
 
